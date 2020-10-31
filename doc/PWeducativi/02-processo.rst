@@ -18,7 +18,8 @@ A partire dalla struttura omologa dei processi, una delle prime attività svolte
 Da questa prima rappresentazione si sono evolute le descrizioni specifiche.
 Nei fatti che saranno descritti saranno evidenziate le caratteristiche del processo, individuando i soggetti, le comunicazioni, il tipo di dati utilizzati, l’iter del procedimento che si vuole gestire, il tipo di elaborazioni necessarie, le caratteristiche dell’output finale qui meglio dettagliate:
 
-    • l’individuazione dei soggetti agenti nella procedura con vari ruoli o profili comunque riconducibili ai ruoli 
+    • l’individuazione dei soggetti agenti nella procedura con vari ruoli o profili comunque riconducibili ai ruoli:
+    
         ◦ cliente esterno che inoltra la richiesta, 
         ◦ soggetto gestore interno con ruoli e profili di competenza differenti
         ◦ soggetto consulente esterno 
