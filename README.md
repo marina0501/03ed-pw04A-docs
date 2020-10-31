@@ -5,12 +5,12 @@ Questo repository contiene la documentazione dei project work del Gruppo 4A.
 
 ## Oggetti dei PW
 
-Servizio Partecipate
+Area Partecipazioni COmunali
 - Controllo partecipate – un metodo organizzativo
 
 Circoscrizione 3
 - Razionalizzazione procedure di assegnazione spazi sportivi circoscrizionali
 
-Servizi Educativi
+Divisione Servizi Educativi
 - Fornitura arredi scolastici - Obbligo di/da arredare
 
