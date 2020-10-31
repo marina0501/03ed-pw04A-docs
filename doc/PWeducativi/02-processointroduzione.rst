@@ -11,7 +11,7 @@ Il processo del PW si può così descrivere in modo neutro caratterizzando le at
     • emissione dell’esito in un output
 Questi metaprocessi si arricchiscono di attività ed elementi specifici che saranno evidenziati nell’analisi di ogni attività che si intende andare a gestire con il prodotto realizzato nel project work. 
 
-A partire dalla struttura omologa dei processi, una delle prime attività svolte dal gruppo è stata il disegno, per mezzo di BIZAGI Modeler, di una BPM semplificata e descrittiva dei tre processi compresi nel team 4A (pw4A-v1.bpm) https://drive.google.com/file/d/1gNH-SLMKTzXdKvNPOFelR4NXGL2SpL8z/view?usp=sharing
+A partire dalla struttura omologa dei processi, una delle prime attività svolte dal gruppo è stata il disegno, per mezzo di BIZAGI Modeler, di una BPM semplificata e descrittiva dei tre processi compresi nel team 4A (pw4A-v1.bpm) https://github.com/Master-MSL/03ed-pw04A-docs/blob/main/doc/PWeducativi/allegatiEDU/pw4A-v1.bpm
 
 Da questa prima rappresentazione si sono evolute le descrizioni specifiche.
 Nei fatti che saranno descritti saranno evidenziate le caratteristiche del processo, individuando i soggetti, le comunicazioni, il tipo di dati utilizzati, l’iter del procedimento che si vuole gestire, il tipo di elaborazioni necessarie, le caratteristiche dell’output finale qui meglio dettagliate:
