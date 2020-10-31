@@ -12,6 +12,7 @@ La Divisione Servizi Educativi ha una Direzione a cui sono gerarchicamente sotto
 I Servizi hanno funzioni proprie ed attività di esclusiva competenza ma nel loro insieme operano congiuntamente per la realizzazione della miglior offerta educativa della città. 
 
 Nella Divisione Servizi Educativi ci sono alcuni uffici che svolgono funzioni trasversali:  
+
 * la gestione del personale attribuita al Servizio Personale;  
 * la gestione del sistema informativo e della comunicazione web attribuita al Servizio Coordinamento Amministrativo e Contabile e Sistema Informativo (gestione del bilancio e del sistema informativo);  
 * la gestione del bilancio attribuita al Servizio Coordinamento Amministrativo e Contabile e Sistema Informativo;   
