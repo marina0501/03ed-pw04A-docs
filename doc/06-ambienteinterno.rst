@@ -15,7 +15,7 @@ Ogni Divisione o Servizio Centrale può essere a sua volta suddivisa in Aree e/o
 
 Organigramma dell’Ente del 15 luglio 2020
 
-https://drive.google.com/file/d/1s04Aw1gnyCmfv-L4xM8CvBDlnN8xI8YX/view?usp=sharing
+https://github.com/Master-MSL/03ed-pw04A-docs/blob/main/doc/allegati/PW4A-organigrammacomune-20200715.pdf
 
 Il sistema informativo comunale
 *******************************
