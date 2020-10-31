@@ -5,7 +5,7 @@ Questo repository contiene la documentazione dei project work del Gruppo 4A.
 
 ## Oggetti dei PW
 
-Area Partecipazioni COmunali
+Area Partecipazioni Comunali
 - Controllo partecipate – un metodo organizzativo
 
 Circoscrizione 3
