@@ -1,6 +1,10 @@
 ###############################
 Project work - Comune di Torino
 ###############################
+
+Premessa
+*********
+
 Il project work qui descritto è frutto della collaborazione tra gli appartenenti al gruppo 4A composto da tre dipendenti del Comune di Torino, nel quale si integrano tre idee progettuali originate dalle attività lavorative svolte nei servizi di appartenenza dei componenti del gruppo che sono la Circoscrizione 3, la Divisione Servizi Educativi e l’Area Partecipazioni Comunali. 
 
 Elementi unificanti del project work sono in primo luogo l’appartenenza all’ente Comune di Torino e la gestione di processi con strutture analoghe che prevedono l’acquisizione di istanze e/o di documentazione, avvio di un procedimento amministrativo che prevede il compimento di un’istruttoria, produzione di reportistica dell’esito del procedimento, archiviazione dell’attività. 
