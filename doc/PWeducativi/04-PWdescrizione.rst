@@ -3,7 +3,6 @@ Project work - Fornitura e gestione degli arredi scolastici
 ###########################################################
 
 La fornitura di arredi scolastici alle scuole dell'obbligo si compone di una serie di processi inter-funzionali che nel loro insieme realizzano quanto previsto dal Decreto Legislativo n. 297 del 16 aprile 1994, agli artt. 159 e 190. Il Decreto Legislativo assegna ai Comuni il compito di provvedere alla fornitura degli arredi scolastici dei due ordini di scuola sopracitati. 
-
 L'oggetto del project work concerne solo una parte dei processi che realizzano la fornitura degli arredi necessari per lo svolgimento delle attività didattiche. 
 A livello più elevato possiamo individuare per l'attività di fornitura degli arredi scolastici dei meta-processi riguardanti:  
 
@@ -13,10 +12,11 @@ c. l'acquisizione degli arredi tramite gare-affidamenti svolti secondo le norme 
 d. la gestione materiale degli arredi: conoscenza e catalogazione dei beni posseduti, distribuzione alle scuole e consistenza del materiale distribuito, gestione dell'eventuale magazzino, delle richieste da parte delle autonomie scolastiche e del loro soddisfacimento, rendicontazione e produzione di reportistica per programmazione, dismissione di materiali inservibili, predisposizione di report per l'avvio delle procedure di acquisto di nuovi arredi. distribuzione e/o raccolta degli arredi 
 
 L'ufficio Acquisto Beni è il fulcro centrale della realizzazione della fornitura degli arredi ma sono coinvolte e indispensabili per il processo altre unità organizzative della Divisione Servizi Educativi, per realizzare la gestione economico-finanziaria e per l'individuazione delle scuole della città.  
-
 Il processo che si intende sviluppare riguarda in particolare le attività citate ai punti b. e c. gestiti interamente dall'ufficio Acquisto Beni o con l'ausilio di altre unità organizzative che possiedono alcune informazioni utili e necessarie a realizzare la fornitura di arredi scolastici (ufficio Patrimonio Scolastico per conoscere le strutture scolastiche, ufficio Bilancio per avere conoscenza delle risorse finanziarie disponibili per realizzare nuove acquisizioni di materiale).
+
 Attualmente l'ufficio si compone, come già descritto in precedenza, di una Responsabile in Posizione organizzativa (che si occupa dell'Ufficio a tempo parziale essendo responsabile di più uffici), di una responsabile amministrativa in telelavoro e di tre impiegate. 
 Si deve poi considerare come parte del processo il soggetto esterno richiedente e beneficiario della fornitura di arredi, ossia le Autonomie Scolastiche ed i Circoli Didattici Comunali. La richiesta di fornitura, salvo eccezioni, è inoltrata dalle segreterie che mantengono le relazioni con gli uffici.
+
 La gestione operativa dell'attività fino ad oggi è stata svolta con strumenti cartacei integrata dalla redazione di elenchi elettronici su fogli di calcolo ed è connessa alle attività degli altri uffici del Servizio o della Divisione con contatti occasionali utili a soddisfare bisogni informativi immediati per lo svolgimento del proprio compito.
 Nonostante nel Servizio di appartenenza dell'ufficio fosse utilizzato da anni un db filemaker per la gestione delle forniture di arredi per le cucine e per i refettori di scuole e nidi, non si è avviata l'integrazione delle attività e quindi la gestione degli arredi scolastici è sempre rimasta separata pur essendo analoghi gli oggetti ed i clienti delle attività e all’ufficio giungano anche le richieste di stoviglie e altri oggetti utilizzati nei refettori.
 Le versioni dell'applicativo Filemaker possedute dalla città sono obsolete: le  licenze sono state acquistate dalla città sono state acquistate molti anni or sono ai fini della certificazione ISO 9001 del servizio di ristorazione scolastica e negli anni a seguire non sono mai state acquisite licenze di versioni aggiornate; dunque non è ipotizzabile lo sviluppo di un applicativo con tale sw.    
