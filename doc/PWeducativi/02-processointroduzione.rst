@@ -1,9 +1,7 @@
 ##################
-Il Processo del pw
+Il Processo del pw - Introduzione
 ##################
 
-Introduzione
-************
 Il project work riguarda la fornitura di arredi scolastici per uso didattico alle scuole statali dell’obbligo e preobblico, alle scuole dell'infanzia e ai nidi comunali. 
 Il processo del PW si può così descrivere in modo neutro caratterizzando le attività fondamentali che lo rendono omologo agli altri processi oggetto del lavoro compiuto nel gruppo 4A:
     • ricezione di una comunicazione in input in un formato elettronico, 
