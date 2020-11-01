@@ -105,3 +105,23 @@ Output simile a quello prodotto per richieste di fornitura arredi è l’elenco 
 
 I documenti descritti devono essere trasmessi a diversi destinatari con finalità differenti ma per tutti deve garantirsi accessibilità e usabilità: quindi ogni documento, sia esso un elenco o un ordine singolo, deve essere predisposto in formato standard interoperabile, utilizzabile ed elaborabile su altri applicativi o software; in ogni caso il documento dovrà contenere sia i dati degli oggetti da acquisire che i dati dei beneficiari dell’attività. 
 
+Gli output di dati aperti
+*************************
+
+Nei pochi incontri o colloqui avuti con la responsabile e con le addette dell’ufficio è stato introdotto l’argomento sulla reportistica di tipo informativo ma non è stato approfondito nel merito; attualmente l’ufficio realizza reportistiche per il management interno sulle attività di fornitura arredi per programmazione attività e acquisti. Considerando le prassi operative attuali, per la produzione di questa reportistica è necessaria un’attività di composizione di informazioni distribuite in differenti documenti e supporti. 
+Sono invece mancanti reportistiche con standard open data. 
+
+Nel corso dello sviluppo dell’applicativo sarà indispensabile pertanto affrontare questo argomento con la nuova responsabile dell’ufficio e con le addette: a beneficio di tutte sarà necessario in primo luogo introdurre l’argomento illustrando natura e funzioni dei dati aperti, le prassi del Comune di Torino in questo ambito e l’importanza di predisporre e rendere pubbliche le informazioni dell’attività; secondo e più importante confronto riguarderà i dati da rendere pubblici ed in quali modalità.
+
+In questo stato del progetto posso solo ipotizzare un panorama di sviluppo nel quale le attività e le informazioni gestite possano essere rese pubbliche sotto forma di dati aperti.
+Come descritto nella sezione riguardante le informazioni gestite, il progetto tratta dati riguardanti oggetti di arredo, istituzioni scolastiche e plessi, documenti e iter di istruttoria e utenti; la specifica attività dell’ufficio riguarda la fornitura degli arredi e di altri oggetti alle scuole.
+I report potrebbero dunque essere dedicati a rendere pubbliche le informazioni sull’entità delle forniture di materiali per ogni anno scolastico ed essere dettagliati per tipo gestione, plesso, autonomia scolastica, tipologia di oggetto, tipo di fornitura realizzata, motivazioni, ecc.
+
+Non è opportuno invece che dalle informazioni gestite dall’ufficio siano prodotti dataset con elenchi di scuole. Le istituzioni scolastiche ed i plessi sono argomento specifico di altri uffici della Divisione Servizi Educativi che si occupano di dimensionamento e gestione del patrimononio immobiliare scolastico. I dati in possesso dell’ufficio Acquisto Beni sono i soli dati utili per la propria attività gestionale, mentre le informazioni native dell’ufficio che si occupa del dimensionamento e del patrimonio scolastico sono più complete, dettagliate ed adeguate alla pubblicazione. 
+
+Da Bonita e anche nel caso di adozionedi ODOO, possono essere estratti report in formati adeguati per la pubblicazione aventi caratteristiche di dato aperto come il csv.
+Questi dataset in formato open data saranno licenziati CC BY 4.0 https://creativecommons.org/licenses/by/4.0/legalcode.it che è lo standard scelto dall’ente per la pubblicazione dei suoi open data sul repository comunale raggiungibili dalla url:  http://aperto.comune.torino.it/  
+Dei dataset sarà predisposta la scheda descrittiva con i metadati seguendo il modello cittadino reperibile alla url: http://aperto.comune.torino.it/dataset/dataset-di-prova
+Questa soluzione produce data set di livello “3 stars” della Tim Berners-Lee scale.
+Il file csv è un formato pubblico (OL), elaborabile (RE) ed aperto (OF): un dataset csv adeguatamente corredato dei metadati di supporto, consente l’elaborazione dei dati in esso contenuti tramite un eleboratore previo intervento umano per la scrittura del programma destinato all’utilizzo delle informazioni.
+
