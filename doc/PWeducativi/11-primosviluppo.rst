@@ -18,105 +18,31 @@ La creazione della struttura della base dati si esegue dalla funzione di “Defi
 Per ogni business object Bonita definisce un  campo persistenceID con la funzione di identificativo del record presente nel Business object.
 É stato pertanto definito il Business data model UPO.arredi1.model e al suo interno un Business Object denominato arredi1 in cui sono presenti i seguenti attributi o campi:
 
-Name Type Lenght Mandatory (si/no)
-scuo_autonomia_scolastica 
-Testo
-255
-si
-scuo_ordine_scolastico
-Testo
-20
-si
-scuo_plesso_denominazione
-Testo
-255
-si
-scuo_plesso_indirizzo
-Testo
-255
-si
-scuo_tipo_gestione
-Testo
-64
-si
-scuo_circoscrizione
-Intero
-255
-si
-oggetto_descrizione
-Testo
-255
-si
-oggetto_tipologia
-Testo
-30
-si
-richiesta_tipo
-Testo
-255
-si
-richiesta_n_mancante
-Integer
-
-si
-richiesta_n_in_carico
-Integer
-
-si
-richiesta_n_esubero
-Integer
-
-Si
-richiesta_stato_arredo
-Testo
-20
-si
-richiesta_data
-Data only
-
-si
-richiedente
-Testo
-255
-si
-richiesta_note
-Testo
-512
-no
-richiesta_repertorio
-Testo
-64
-no
-sopralluogo_data
-Data only
-
-no
-richiesta_esito_data
-Data only
-
-no
-richiesta_esito
-Boolean
-
-no
-richiesta_esito_motivazione
-Testo
-64
-no
-richiesta_ricezione_corretta
-Boolean
-
-no
-richiesta_ricezione_esitonote
-Testo
-512
-no
-oggetto_n_fornitura
-Integer
-
-no
-oggetto_data_fornitura
-Data only
-
-no
+============================= =========== ========= =======================
+Name                          Type        Lenght    Mandatory (si/no)
+scuo_autonomia_scolastica     Testo       255       si
+scuo_ordine_scolastico        Testo       20        si
+scuo_plesso_denominazione     Testo       255       si
+scuo_plesso_indirizzo         Testo       255       si
+scuo_tipo_gestione            Testo       64        si
+scuo_circoscrizione           Intero      255       si
+oggetto_descrizione           Testo       255       si
+oggetto_tipologia             Testo       30        si
+richiesta_tipo                Testo       255       si
+richiesta_n_mancante          Integer               si
+richiesta_n_in_carico         Integer               si
+richiesta_n_esubero           Integer               Si
+richiesta_stato_arredo        Testo       20        si
+richiesta_data                Data only             si
+richiedente                   Testo       255       si
+richiesta_note                Testo       512       no
+richiesta_repertorio          Testo       64        no
+sopralluogo_data              Data only             no
+richiesta_esito_data          Data only             no
+richiesta_esito               Boolean               no
+richiesta_esito_motivazione   Testo       64        no
+richiesta_ricezione_corretta  Boolean               no
+richiesta_ricezione_esitonote Testo       512       no
+oggetto_n_fornitura           Integer               no
+oggetto_data_fornitura        Data only             no
 
