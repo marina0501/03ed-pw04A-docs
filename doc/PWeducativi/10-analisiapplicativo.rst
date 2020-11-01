@@ -19,6 +19,7 @@ Le informazioni da gestire
 **************************
 
 Dalla descrizione del processo è stata rilevata la necessità di gestire e memorizzare le informazioni riguardanti:
+
 Oggetti:
     • arredi-materiali oggetto delle richieste
     • tipologia degli arredi-materiali
@@ -33,6 +34,7 @@ Eventi o fatti:
     • fornitura
 
 A partire dalla descrizione delle attività e dai moduli utilizzati sono state definite le strutture delle tabelle o data-object con i relativi campi riguardanti gli oggetti e le loro proprietà.
+
 Sono state definite 6 tabelle
     • oggetti_fornitura:
       contiene le informazioni sugli oggetti delle richieste di forniture (tipo, identificativo, descrizione) 
