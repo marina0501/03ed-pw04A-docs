@@ -90,9 +90,9 @@ ODOO è un ERP con estese funzionalità che vanno ben oltre le esigenze dell’u
 ========================================================= ======================================= 
 Denominazione                                             ODOO
 Corporation                                               ODOO SA
-Licenza                                                   - LGPL3 
+Licenza                                                   LGPL3 
 Risorse requisiti installazione                           - versione business è multipiattaforma
-                                                          - Windows successia 8
+                                                          - Windows successiva a W8
                                                           - Linux (Debian, Ubunti)
                                                           - Linux (Fedora)
 DBMS                                                      PostgreSQL
@@ -101,4 +101,6 @@ Formati output-export                                     - **.xlsx**
 Formati input                                             - .xlsx
                                                           - .csv
 ========================================================= =======================================
+
+Lo sviluppo con ODOO si presenta più complesso rispetto alle competenze richieste da Bonita e pertanto la combinazione delle due motivazioni ed il periodo di lockdown ha indirizzato la scelta di analisi e sviluppo del pacchetto di gestione arredi verso Bonita.
 
