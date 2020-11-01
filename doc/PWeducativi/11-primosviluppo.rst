@@ -54,7 +54,7 @@ Gli attributes o campi del business object descritto sono stati assegnati ai tas
 **Task 1 Avvio:** ProduzioneDocumentoIstanzaFornitura – Inoltro da parte della scuola (ruolo addetto-scuola) della richiesta di arredi:
 
 +---------------------------+
-| campi                     !
+| Campi                     |
 +---------------------------+ 
 | scuo_autonomia_scolastica |
 +---------------------------+
