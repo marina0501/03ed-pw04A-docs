@@ -49,9 +49,12 @@ Denominazione                                             Bonita
 Corporation                                               Bonitasoft
 Licenza                                                   GPL2 - LGPL per componente Bonita Engine
 Risorse – requisiti installazione                         Multipiattaforma 
-                                                          Windows 64 bit
-Responsabile Ufficio Acquisto Beni                        Consult
-Addette Ufficio Acquisto Beni (3)                         Consult
+Windows                                                   32 o 64 bit
+Linux                                                     32 o 64 bit
+Mac OS                                                    64 bit
+RAM                                                       8 gb
+Browser                                                   Compatibile con Mozilla, Chrome, Explorer, Edge
+Formati output-export                                     .bos – esporta il progetto su singole parti o complessivamente da utilizzare su altre istanze Bonita
 ========================================================= =======================================
 
 ODOO
