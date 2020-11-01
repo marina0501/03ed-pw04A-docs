@@ -53,33 +53,48 @@ Gli attributes o campi del business object descritto sono stati assegnati ai tas
 
 **Task 1 Avvio:** ProduzioneDocumentoIstanzaFornitura – Inoltro da parte della scuola (ruolo addetto-scuola) della richiesta di arredi:
 
-==========================
-campi
-========================== 
- scuo_autonomia_scolastica
- scuo_ordine_scolastico
- scuo_plesso_denominazione
- scuo_plesso_indirizzo
- scuo_tipo_gestione
- scuo_circoscrizione
- oggetto_descrizione
- oggetto_tipologia
- richiesta_tipo
- richiesta_n_mancante
- richiesta_n_in_carico
- richiesta_n_esubero
- richiesta_stato_arredo
- richiesta_data
- richiedente
- richiesta_note
-=========================
++---------------------------+
+| campi                     !
++---------------------------+ 
+| scuo_autonomia_scolastica |
++---------------------------+
+| scuo_ordine_scolastico    |
++---------------------------+
+| scuo_plesso_denominazione |
++---------------------------+
+| scuo_plesso_indirizzo     |
++---------------------------+
+| scuo_tipo_gestione        |
++---------------------------+
+| scuo_circoscrizione       |
++---------------------------+
+| oggetto_descrizione       |
++---------------------------+
+| oggetto_tipologia         |
++---------------------------+
+| richiesta_tipo            |
++---------------------------+
+| richiesta_n_mancante      |
++---------------------------+
+| richiesta_n_in_carico     |
++---------------------------+
+| richiesta_n_esubero       |
++---------------------------+
+| richiesta_stato_arredo    |
++---------------------------+
+| richiesta_data            |
++---------------------------+
+| richiedente               |
++---------------------------+
+| richiesta_note            |
++---------------------------+
 
 **Task 2:** RicezioneProtocollazioneInserimentoRepertorio – Task di tipo Human - Ricezione dell’istanza con registrazione repertorio da parte dell’addetto-ricezione :
 
-=========================
-Campi
-=========================
-richiesta_repertorio
-=========================
++---------------------------+
+| Campi                     |
++---------------------------+
+| richiesta_repertorio      |
++---------------------------+
 
-Task 3: Prime Verifiche Istanza – Task di tipo Human - Verifica correttezza compilazione eseguita dalle due figure addetto-ricezione o addetto-istruttoria:
+**Task 3:** Prime Verifiche Istanza – Task di tipo Human - Verifica correttezza compilazione eseguita dalle due figure addetto-ricezione o addetto-istruttoria:
