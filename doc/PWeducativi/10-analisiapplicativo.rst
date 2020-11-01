@@ -62,3 +62,43 @@ Deve dunque essere generato un archivio di utenti, non necessariamente personali
 
 Nel caso di utilizzo dell’applicativo usufruendo del protocollo di accesso al dominio comunale le credenziali sono nominative e pertanto dovrà essere gestito l’archivio nominativo degli utenti abilitati.
 Considerando il tipo di informazioni gestite ed il fine dell’attività, la credenziale può essere semplice, formata dai soli user e password, senza necessità di un terzo elemento di controllo (PIN o token) in quanto non deve abilitare all’accesso ad informazioni personali o comunque con profili di riservatezza ed alte esigenze di sicurezza.
+
+Interfacce e output gestionali
+******************************
+
+L’utilizzo di Bonita o l’eventuale successiva scelta di sviluppare il pacchetto sulla piattaforma ODOO consentono la realizzazione di una procedura web-online in cui le interfacce sono moduli web per inserimento e gestione di dati residenti su un server.
+
+L’invio delle richieste potrebbe essere anche realizzato attraverso l’inoltro via mail di documenti allegati contenenti le informazioni necessarie per la presentazione dell’istanza: tale modalità potrebbe sembrare più accessibile ed usabile per gli utenti esterni, non porrebbe il problema di gestire autenticazioni e accessi all’applicativo da parte di questi stessi utenti esterni. 
+Questa prassi, pur con la definizione di modelli da utilizzare per l’invio in formati standard e la diffusione dettagliata e motivata delle modalità operative da utilizzare, non garantisce dall’utilizzo di modelli non conformi, dall’utilizzo non corretto degli stessi modelli o ancora dalla modifica della struttura dei modelli da parte degli utenti in considerazione delle proprie esigenze e necessità operative. Inoltre questo modello operativo presuppone un’attività di input specifica, manuale o automatizzata: in questo secondo caso implica la scrittura di una funzione per gestire l’acquisizione delle informazioni contenute nei documenti ricevuti.
+
+La web form è dunque la maniera preferibile e maggiormente efficace per la gestione del processo.
+
+Per l’input delle istanze sono dunque stati definiti i requisiti dei dati per 4 modelli corrispondenti alle richieste riguardanti oggetti e/o ordini scolastici differenti
+Form Input previste:
+    • arredi scuole preobbligo e nido
+    • arredi scuole obbligo. 
+    • stoviglie
+    • copritermo
+
+Nelle form saranno presenti e compilabili i campi utili per l’identificazione della provenienza e della struttura richiedente e le informazioni sugli oggetti di cui si chiede la fornitura o altra attività.
+Un’ultima webform di input è stata definita per l’attività di sopralluogo utilizzabile e compilabile dalle addette dell’ufficio. Il dettaglio di queste webform è presente nel file PW4A_RIGOTTI-arredi-modelli-Input.ods - https://github.com/Master-MSL/03ed-pw04A-docs/blob/main/doc/PWeducativi/allegatiEDU/PW4A_RIGOTTI-arredi-modelli-Input.ods
+
+Anche le funzioni di verifica e istruttoria delle istanze possono essere svolte per mezzo di webform, utilizzabili dalle adette e dalle figure responsabili dell’ufficio secondo i loro profili  e ambiti di responsabilità. Queste maschere si compongono di elementi in sola lettura e elementi in aggiornamento, che non potranno o dovranno essere obbligatori per consentire l’esecuzione dell’istruttoria anche in modo parziale o distribuita secondo un iter operativo distribuito in fasi. 
+
+Per le attività di ufficio utili a rendicontazione, reportistica, analisi delle forniture ecc., sono da sviluppare delle webform con la visualizzazione di elenchi riguardanti le richieste, gli oggetti, le forniture, i sopralluoghi. 
+Il dettaglio di queste webform per gli uffici è presente nel file PW4A_RIGOTTI-arredi-modelli-Istruttoria.ods - https://github.com/Master-MSL/03ed-pw04A-docs/blob/main/doc/PWeducativi/allegatiEDU/PW4A_RIGOTTI-arredi-modelli-Istruttoria.ods
+
+Considerate le attività definite nella bpm di richiesta e istruttoria rimane da esaminare la chiusura del processo con le comunicazioni degli esiti della richiesta al termine dell’istruttoria. 
+Una richiesta giunta al termine dell’iter è sempre origine di una comunicazione all’istituto richiedente di esito dell’istruttoria e di compimento della fornitura a seguito di esito positivo. 
+
+La comunicazione per mezzo di webform non è adeguata alle necessità di avviso sull’esito istanza poiché la scuola utilizza l’applicativo in modo occasionale e rarefatto, dunque dovrebbe essere notificata con qualche altro mezzo la presenza della comunicazione. 
+Strumento di comunicazione più efficace nel rapporto con le segreterie ed utilizzabile da Bonita è il messaggio mail, il cui indirizzo è richiesto e presente nella tabella delle scuole. Nella mail inoltre è possibile dettagliare le motivazioni dell’esito dell’istanza e l’eventuale dettaglio di fornitura; oppure è possibile allegare un documento in cui sono esplicitati esiti dell’istruttoria e tutte le informazioni utili per motivare la decisione e comunicare l’avvio della procedura di fornitura.
+
+Ultima attività necessaria è la produzione degli output necessari ai vari uffici competenti per avviare le attività utili al soddisfacimento delle richieste approvate: acquisto, fornitura, riparazione, ritiro. 
+Per la fornitura degli elementi di arredo la comunicazione deve essere distinta tra 
+    • le richieste di arredo, raggruppate secondo criteri di data, tipologia o di altro genere secondo le esigenze degli uffici; per esse deve prodursi elenco delle richieste approvate con i dati degli oggetti da acquisire (tipo, descrizione e quantità) ed i dati dei beneficiari utili per la distribuzione:
+    • fornitura, sostituzione o riparazione di copritermosifoni, devono produrre un ordine puntuale sulla richiesta poiché le richeiste sono occasionali e devono essere soddifatte con il termine dell’istruttoria essendo dispositivi di protezione e la loro mancanza o non regolarità potrebbe determinare l’impossibilità di fruire di spazi o svolgimento di attività.
+
+Output simile a quello prodotto per richieste di fornitura arredi è l’elenco delle riparazioni; come nelle forniture anche le riparazioni sono raggruppate in un documento che deve essere considerato l’esplicitazione e dettaglio dell’ordine indirizzato all’affidatario del servizio.
+I documenti descritti devono essere trasmessi a diversi destinatari con finalità differenti ma per tutti deve garantirsi accessibilità e usabilità: quindi ogni documento, sia esso un elenco o un ordine singolo, deve essere predisposto in formato standard interoperabile, utilizzabile ed elaborabile su altri applicativi o software; in ogni caso il documento dovrà contenere sia i dati degli oggetti da acquisire che i dati dei beneficiari dell’attività. 
+
