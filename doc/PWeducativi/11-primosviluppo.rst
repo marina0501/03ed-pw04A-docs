@@ -201,3 +201,26 @@ Questi ruoli sono assegnati a 4 user-utenti:
 - arredi-responsabile con ruolo on ruolo arredi-responsabile e arredi-addetto-istruttoria.
 
 L’user arredi-responsabile è anche username per il deploy e amministrazione del pacchetto.
+
+Forms
+#####
+
+Per eseguire le gestioni delle attività e dei dati con i tasks descritti di tipo Human sono state generate 6 forms:
+
+- inviorichiesta su start event “ProduzioneDocumentoIstanzaFornitura”
+- insrepertorio su task 2 “RicezioneProtocollazioneInserimentoRepertorio”
+- verifrichiesta1 su task 3 “Prime Verifiche Istanza”
+- esecuzioneIstruttoria su task 4A “Esecuzione Istruttoria”
+- fineistruttoria su task 5 “Esito richiesta”
+- correzioneRichiesta su task 9 “Ricezione correzioni”
+
+Nelle forms l’utente è abilitato all’aggiornamento dei campi collegati ai tasks presentati nel paragrafo Descrizione BPM. 
+
+Per l’inserimento di alcuni Valori sono stati utilizzati dei widget di tipo “select” con tendina al fine di omogeneizzare l’inserimento di informazioni sui tipi di oggetto e motivazione ella richiesta, ordine scolastico, tipo gestione e circoscrizione del plesso.
+
+Andare oltre la versione semplificata
+#####################################
+
+Realizzata la versione alfa con un primo modello semplificato del processo gestione richieste arredi in cui sono gestibili moduli riguardanti un singolo tipo di oggetto oggetto, sarà avviato lo sviluppo della versione disegnata nella BPM Bizagi “PW4A_RIGOTTI-arredi-V2.bpm” - https://github.com/Master-MSL/03ed-pw04A-docs/blob/main/doc/PWeducativi/allegatiEDU/PW4A_RIGOTTI-arredi-v2.bpm -in cui il processo gestirà istanze contenenti richieste riferite a più tipo di oggetti (carrello o lista della spesa) e affidando i diversi task a utenti con profilazione specifica su ruolo.
+
+In questa nuova versione lo sviluppo con Bonita dovrà in primo luogo definire in modo completo il BusinessDataModel seguendo le specifiche descritte nei paragrafi precedenti; il BDM dovrà essere composto da diversi BusinessObject tra loro messi in relazione che dovranno permettere di memorizzare e utilizzare in modo più efficiente ed efficace i dati e le risorse. 
