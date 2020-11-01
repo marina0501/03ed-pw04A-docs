@@ -121,7 +121,9 @@ Non è opportuno invece che dalle informazioni gestite dall’ufficio siano prod
 
 Da Bonita e anche nel caso di adozionedi ODOO, possono essere estratti report in formati adeguati per la pubblicazione aventi caratteristiche di dato aperto come il csv.
 Questi dataset in formato open data saranno licenziati CC BY 4.0 https://creativecommons.org/licenses/by/4.0/legalcode.it che è lo standard scelto dall’ente per la pubblicazione dei suoi open data sul repository comunale raggiungibili dalla url:  http://aperto.comune.torino.it/  
+
 Dei dataset sarà predisposta la scheda descrittiva con i metadati seguendo il modello cittadino reperibile alla url: http://aperto.comune.torino.it/dataset/dataset-di-prova
+
 Questa soluzione produce data set di livello “3 stars” della Tim Berners-Lee scale.
 Il file csv è un formato pubblico (OL), elaborabile (RE) ed aperto (OF): un dataset csv adeguatamente corredato dei metadati di supporto, consente l’elaborazione dei dati in esso contenuti tramite un eleboratore previo intervento umano per la scrittura del programma destinato all’utilizzo delle informazioni.
 
