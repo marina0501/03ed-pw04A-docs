@@ -43,7 +43,7 @@ In Bonita è presente un db relazionale su cui sviluppare query sql gestito tram
 *Scheda descrittiva pacchetto applicativo*
 
 ========================================================= ======================================= 
-                                                          
+*Scheda descrittiva pacchetto applicativo*                                                          
 ========================================================= ======================================= 
 Referente master del progetto – discente del team         Manager
 Altri Discenti del team (2)                               Counselor
