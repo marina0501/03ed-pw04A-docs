@@ -110,4 +110,17 @@ Si     Verso Task 4A Esecuzione Istruttoria
 No     Verso task 4b Richiesta correzione      
 ====== =====================================      
 
+**Task 4A:** Esecuzione Istruttoria – Task di tipo Human - Avvio dell’istruttoria sui contenuti dell’istanza riguardo ammissibilità, possibilità e modi fornitura:
 
++-----------------------+
+| richiesta_esito_data  |
++-----------------------+
+| richiesta_esito       |
++-----------------------+
+| sopralluogo_data      |
++-----------------------+
+| oggetto_n_fornitura   |
++-----------------------+
+In questa versione semplificata l’addetto dell’organizzazione ufficio arredi alla gestione dell’istruttoria compila i campi per giungere alla definizione della fornitura
+
+**Task 5:** Esito richiesta – Task di tipo Human - al termine dell’istruttoria viene compilato il campo con le motivazioni dell’esito istruttoria d apate del responsabile dell’ufficio (arredi-responsabile)
