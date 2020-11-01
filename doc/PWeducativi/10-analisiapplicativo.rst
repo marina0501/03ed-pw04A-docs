@@ -74,6 +74,7 @@ Questa prassi, pur con la definizione di modelli da utilizzare per l’invio in 
 La web form è dunque la maniera preferibile e maggiormente efficace per la gestione del processo.
 
 Per l’input delle istanze sono dunque stati definiti i requisiti dei dati per 4 modelli corrispondenti alle richieste riguardanti oggetti e/o ordini scolastici differenti
+
 Form Input previste:
     • arredi scuole preobbligo e nido
     • arredi scuole obbligo. 
@@ -95,10 +96,12 @@ La comunicazione per mezzo di webform non è adeguata alle necessità di avviso 
 Strumento di comunicazione più efficace nel rapporto con le segreterie ed utilizzabile da Bonita è il messaggio mail, il cui indirizzo è richiesto e presente nella tabella delle scuole. Nella mail inoltre è possibile dettagliare le motivazioni dell’esito dell’istanza e l’eventuale dettaglio di fornitura; oppure è possibile allegare un documento in cui sono esplicitati esiti dell’istruttoria e tutte le informazioni utili per motivare la decisione e comunicare l’avvio della procedura di fornitura.
 
 Ultima attività necessaria è la produzione degli output necessari ai vari uffici competenti per avviare le attività utili al soddisfacimento delle richieste approvate: acquisto, fornitura, riparazione, ritiro. 
-Per la fornitura degli elementi di arredo la comunicazione deve essere distinta tra 
+Per la fornitura degli elementi di arredo la comunicazione deve essere distinta tra
+
     • le richieste di arredo, raggruppate secondo criteri di data, tipologia o di altro genere secondo le esigenze degli uffici; per esse deve prodursi elenco delle richieste approvate con i dati degli oggetti da acquisire (tipo, descrizione e quantità) ed i dati dei beneficiari utili per la distribuzione:
     • fornitura, sostituzione o riparazione di copritermosifoni, devono produrre un ordine puntuale sulla richiesta poiché le richeiste sono occasionali e devono essere soddifatte con il termine dell’istruttoria essendo dispositivi di protezione e la loro mancanza o non regolarità potrebbe determinare l’impossibilità di fruire di spazi o svolgimento di attività.
 
 Output simile a quello prodotto per richieste di fornitura arredi è l’elenco delle riparazioni; come nelle forniture anche le riparazioni sono raggruppate in un documento che deve essere considerato l’esplicitazione e dettaglio dell’ordine indirizzato all’affidatario del servizio.
+
 I documenti descritti devono essere trasmessi a diversi destinatari con finalità differenti ma per tutti deve garantirsi accessibilità e usabilità: quindi ogni documento, sia esso un elenco o un ordine singolo, deve essere predisposto in formato standard interoperabile, utilizzabile ed elaborabile su altri applicativi o software; in ogni caso il documento dovrà contenere sia i dati degli oggetti da acquisire che i dati dei beneficiari dell’attività. 
 
