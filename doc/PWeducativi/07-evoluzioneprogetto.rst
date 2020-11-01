@@ -67,16 +67,38 @@ Formati input                                             - .bpmn
 ODOO
 ----
 
-Odoo è un pacchetto software sviluppato a partire da OpenERP oggi con licenza LGPL.
-ODOO ha una versione Enterprise (gestito e supportato dall’Omonima azienda che ha sedi in vari paesi) ed una versione Community scaricabile dal sito aziendale. L’ultima release è la 14 
+ODOO è un pacchetto software sviluppato a partire da OpenERP oggi con licenza LGPL.
+
+ODOO ha una versione Enterprise (gestito e supportato dall’Omonima azienda che ha sedi in vari paesi) ed una versione Community scaricabile dal sito aziendale. L’ultima release è la 14.
 Il pacchetto è costruito in forma modulare per cui si possono di volta in volta installare moduli (App) che svolgono funzioni differenti.
 La versione aziendale comprende 75 app componibili mentre la versione Community è limitata a 32  app. 
 La versione disponibile e scaricabile dal sito dell’azienda può essere installata sui SO Windows, Linux per le distribuzioni Debian-Ubuntu e RPM.
+
 ODOO si appoggia ad un dbms PostgreSQL che viene installato con la medesima procedura.
 Ho pertanto installato su SO W8 il pacchetto community scaricato dal sito https://www.odoo.com/it_IT/ ma la limitatezza della versione però non offre app utili alla gestione delle richieste arredi e quindi questo percorso non è stato giudicato adeguato alla realizzazione del pacchetto.
 ODOO è anche disponibile sul repository GitHub dove la community prosegue lo sviluppo di versioni meno recenti ma in modo da rendere possibile l’aggiornamento delle funzioni necessario per seguire l’evolvere delle normative o delle esigenze di mercato anche nei singoli paesi.
 Su Github la versione italiana di riferimento sulla quale si possono trovare le diverse APP aggiornate e testate è la 10, installabile su SO Linux.
+
 L’apparato personale utilizzato per il master ed anche la postazione in dotazione in ufficio hanno un SO Windows e pertanto si rende necessaria l’installazione di una virtual machine su cui procedere con l’installazione di ODOO. A tal fine è stata installata sul pc personale una Virtual Box Oracle con 4 mb di ram su cui è stato installato un SO operativo Linux 64 bit, distribuzione Lubuntu 18.04.
 Su questo ambiente sarà installato ODOO v10 community da Github e il db postgreSQL
+
 Il percorso di analisi finalizzata allo sviluppo del pacchetto tramite ODOO è stato per ora interrotto per due aspetti:
 ODOO è un ERP con estese funzionalità che vanno ben oltre le esigenze dell’ufficio arredi e la sua gestione può risultare meno friendly rispetto a soluzioni con pacchetti meno specialistici.
+
+========================================================= ======================================= 
+*Scheda descrittiva pacchetto applicativo*                                                          
+========================================================= ======================================= 
+Denominazione                                             ODOO
+Corporation                                               ODOO SA
+Licenza                                                   - LGPL3 
+Risorse requisiti installazione                           - versione business è multipiattaforma
+                                                          - Windows successia 8
+                                                          - Linux (Debian, Ubunti)
+                                                          - Linux (Fedora)
+DBMS                                                      PostgreSQL
+Formati output-export                                     - **.xlsx** 
+                                                          - **.csv** 
+Formati input                                             - .xlsx
+                                                          - .csv
+========================================================= =======================================
+
