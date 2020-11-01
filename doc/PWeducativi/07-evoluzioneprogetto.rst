@@ -40,16 +40,16 @@ Bonita è suddiviso in più componenti
     • Continuus delivery, componente di provisioning automatico sui servizi server di Amazon (AWS)
 In Bonita è presente un db relazionale su cui sviluppare query sql gestito tramite la componente Engine e può essere collegato anche a differenti db esterni (es. PostgreSQL, My SQL; SQLserver)
 
-*Scheda descrittiva pacchetto applicativo*
+
 
 ========================================================= ======================================= 
 *Scheda descrittiva pacchetto applicativo*                                                          
 ========================================================= ======================================= 
-Referente master del progetto – discente del team         Manager
-Altri Discenti del team (2)                               Counselor
-Referente tecnico – Tutor del Master UPO                  Counselor
-Referente Gestione dei processi – Tutor del master UPO    Counselor 
-Consulente esterno per risorse HW – SW                    Counselor
+Denominazione                                             Bonita
+Corporation                                               Bonitasoft
+Licenza                                                   GPL2 - LGPL per componente Bonita Engine
+Risorse – requisiti installazione                         Multipiattaforma 
+                                                          Windows 64 bit
 Responsabile Ufficio Acquisto Beni                        Consult
 Addette Ufficio Acquisto Beni (3)                         Consult
 ========================================================= =======================================
