@@ -1,0 +1,30 @@
+projects:
+  - name: Processi gestione istruttorie nel Comune di Torino
+    description: |
+      Si tratta di un progetto caratterizzato dalla partecipazione, condivisione e collaborazione tra attori-discenti provenienti da tre servizi 
+      dell'amministrazione comunale di Torino.
+      In esso si integrano tre idee progettuali originate dalle attività lavorative svolte nei servizi di appartenenza che sono 
+      - Area Partecipazioni Comunali
+      - Circoscrizione 3 
+      - Divisione Servizi Educativi
+      Le attività si uniformano e contraddistinguono per la struttura di processo che si avvia con la presentazione di un documento, 
+      la repertoriazione, un'istruttoria di vari livelli, la produzione di un output sull'esito istrtuttoria che avvia un processo successivo
+      
+      Un modello di sviluppo software basato su community Open Source
+    documents:
+      - project-document-doc
+      - another-project-document-doc
+    short_name: COMTO-PAC3SE
+    website: none
+    tags:
+      - comune 
+      - partecipate
+      - partecipazioni comunali
+      - bilancio
+      - circoscrizione
+      - sport
+      - impianto sportivo
+      - educazione
+      - scuola
+      - nido
+      - arredi scolastici
