@@ -3,7 +3,7 @@ L’ambito di realizzazione del project work
 ##########################################
 
 a) Divisione Servizi Educativi
-***************************
+******************************
 
 La Divisione Servizi Educativi è una delle 12 strutture funzionali in cui è suddivisa la struttura operativa dell’ente Comune di Torino e si occupa della gestione dei servizi e delle attività rivolte all’infanzia (fascia di età 0-6) ed all’adolescenza (fascia di età 6-14). 
 Alcuni dei compiti derivano da specifiche norme dello stato, altre attività sono realizzate ad integrazione degli interventi dello stato, altre sono competenze assegnate dalle Regioni nell’ambito della potestà legislativa regionale.
