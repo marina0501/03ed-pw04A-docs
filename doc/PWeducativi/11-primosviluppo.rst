@@ -103,9 +103,11 @@ Gli attributes o campi del business object descritto sono stati assegnati ai tas
 
 **Gateway Documento Corretto?:** Distinzione percorso su esito verifica correttezza (campo booleano richiesta_ricezione_corretta si/no)
 
-+-------------------------------+
-| richiesta_ricezione_corretta  |
-+-------------------------------+
-| richiesta_ricezione_esitonote |
-+-------------------------------+
+====== =====================================
+Esito  Azione       
+====== =====================================
+Si     Verso Task 4A Esecuzione Istruttoria      
+No     Verso task 4b Richiesta correzione      
+====== =====================================      
+
 
