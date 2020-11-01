@@ -53,8 +53,6 @@ Gli attributes o campi del business object descritto sono stati assegnati ai tas
 
 **Task 1 Avvio:** ProduzioneDocumentoIstanzaFornitura – Inoltro da parte della scuola (ruolo addetto-scuola) della richiesta di arredi:
 
-+---------------------------+
-| Campi                     |
 +---------------------------+ 
 | scuo_autonomia_scolastica |
 +---------------------------+
@@ -92,9 +90,13 @@ Gli attributes o campi del business object descritto sono stati assegnati ai tas
 **Task 2:** RicezioneProtocollazioneInserimentoRepertorio – Task di tipo Human - Ricezione dell’istanza con registrazione repertorio da parte dell’addetto-ricezione :
 
 +---------------------------+
-| Campi                     |
-+---------------------------+
 | richiesta_repertorio      |
 +---------------------------+
 
 **Task 3:** Prime Verifiche Istanza – Task di tipo Human - Verifica correttezza compilazione eseguita dalle due figure addetto-ricezione o addetto-istruttoria:
+
++-------------------------------+
+| richiesta_ricezione_corretta  |
++-------------------------------+
+| richiesta_ricezione_esitonote |
++-------------------------------+
