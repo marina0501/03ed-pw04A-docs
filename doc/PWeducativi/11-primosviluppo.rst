@@ -48,3 +48,31 @@ oggetto_n_fornitura           Integer               no
 oggetto_data_fornitura        Data only             no
 ============================= =========== ========= =======================
 
+Descrizione BPM
+***************
+
+Gli attributes o campi del business object descritto sono stati assegnati ai task che si susseguono in procedura:
+
+**Task 1 Avvio:** ProduzioneDocumentoIstanzaFornitura – Inoltro da parte della scuola (ruolo addetto-scuola) della richiesta di arredi:
+
+==========================
+
+==========================
+scuo_autonomia_scolastica
+scuo_ordine_scolastico
+scuo_plesso_denominazione
+scuo_plesso_indirizzo
+scuo_tipo_gestione
+scuo_circoscrizione
+oggetto_descrizione
+oggetto_tipologia
+richiesta_tipo
+richiesta_n_mancante
+richiesta_n_in_carico
+richiesta_n_esubero
+richiesta_stato_arredo
+richiesta_data
+richiedente
+richiesta_note
+=========================
+
