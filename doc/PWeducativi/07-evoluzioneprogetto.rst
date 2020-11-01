@@ -41,3 +41,9 @@ Bonita è suddiviso in più componenti
 In Bonita è presente un db relazionale su cui sviluppare query sql gestito tramite la componente Engine e può essere collegato anche a differenti db esterni (es. PostgreSQL, My SQL; SQLserver)
 
 *Scheda descrittiva pacchetto applicativo*
+================== ================================================================================================================
+
+================== ================================================================================================================
+**Denominazione**  Bonita
+**Corporation**    Bonitasoft
+================== ================================================================================================================
