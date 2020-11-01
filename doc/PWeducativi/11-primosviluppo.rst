@@ -100,3 +100,12 @@ Gli attributes o campi del business object descritto sono stati assegnati ai tas
 +-------------------------------+
 | richiesta_ricezione_esitonote |
 +-------------------------------+
+
+**Gateway Documento Corretto?:** Distinzione percorso su esito verifica correttezza (campo booleano richiesta_ricezione_corretta si/no)
+
++-------------------------------+
+| richiesta_ricezione_corretta  |
++-------------------------------+
+| richiesta_ricezione_esitonote |
++-------------------------------+
+
