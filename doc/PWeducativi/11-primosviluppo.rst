@@ -121,6 +121,29 @@ No     Verso task 4b Richiesta correzione
 +-----------------------+
 | oggetto_n_fornitura   |
 +-----------------------+
-In questa versione semplificata l’addetto dell’organizzazione ufficio arredi alla gestione dell’istruttoria compila i campi per giungere alla definizione della fornitura
+In questa versione semplificata l’addetto alla gestione dell’istruttoria facente parte dell’organizzazione ufficio arredi, compila i campi per giungere alla definizione della fornitura.
 
 **Task 5:** Esito richiesta – Task di tipo Human - al termine dell’istruttoria viene compilato il campo con le motivazioni dell’esito istruttoria d apate del responsabile dell’ufficio (arredi-responsabile)
+
++-----------------------------+
+| richiesta_esito_motivazione |
++-----------------------------+
+
+**Gateway Distribuzione esito:** distinzione dei percorsi delle comunicaizoni per esiti positivi dell’istruttoria con fornitura materiale e esiti negativi in cui la richiesta di fornitura è respinta
+
+====== =============================================
+Esito  Azione       
+====== =============================================
+Si     Verso gateway esito positivo      
+No     Verso task 7 Produzione comunicazione esito      
+====== =============================================
+
+**Gateway Esito positivo:** gateway parallelo in cui si duplicano informazioni per i due task successivi pe rinvio della comunicazione riguardante l’esecuzione della fornitura a scuola richiedente e ufficio competente 
+
++---------------------------------------------------+
+| Verso task 6B Produzione comunicazione fornitura  |
++---------------------------------------------------+
+| Verso task 6A invio ufficio interno               |
++---------------------------------------------------+
+
+
