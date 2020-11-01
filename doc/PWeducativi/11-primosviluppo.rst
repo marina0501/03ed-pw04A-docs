@@ -20,6 +20,7 @@ Per ogni business object Bonita definisce un  campo persistenceID con la funzion
 
 ============================= =========== ========= =======================
 Name                          Type        Lenght    Mandatory (si/no)
+============================= =========== ========= =======================
 scuo_autonomia_scolastica     Testo       255       si
 scuo_ordine_scolastico        Testo       20        si
 scuo_plesso_denominazione     Testo       255       si
@@ -45,4 +46,5 @@ richiesta_ricezione_corretta  Boolean               no
 richiesta_ricezione_esitonote Testo       512       no
 oggetto_n_fornitura           Integer               no
 oggetto_data_fornitura        Data only             no
+============================= =========== ========= =======================
 
