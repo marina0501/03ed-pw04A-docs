@@ -49,10 +49,16 @@ Denominazione                                             Bonita
 Corporation                                               Bonitasoft
 Licenza                                                   - GPL2 
                                                           - LGPL per componente Bonita Engine
+Risorse requisiti installazione                           - multipiattaforma
+                                                          - Windows 32 o 64 bit
+                                                          - Linux 32 o 64 bit
+                                                          - Mac OS 64 bit
+                                                          - Necessita di 8 gb di RAM
+                                                          - Compatibile con Browser Mozilla, Chrome, Explorer, Edge
 Formati output-export                                     - **.bos** – esporta il progetto su singole parti o complessivamente da utilizzare su altre istanze Bonita
-                                                          - .xml – esporta gli schemi delle organizzazioni
-                                                          - .png – file immagine di un singolo diagramma
-                                                          - .bpmn - Business Process Model and Notation
+                                                          - **.xml** – esporta gli schemi delle organizzazioni
+                                                          - **.png** – file immagine di un singolo diagramma
+                                                          - **.bpmn** - Business Process Model and Notation
 Formati input                                             - .bpmn
                                                           - .jbpm
                                                           - .jpdl                                                          
