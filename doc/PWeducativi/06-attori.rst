@@ -1,5 +1,6 @@
 Si possono individuare due gruppi distinti di attori facenti parte del team per lo sviluppo del pw e gli attori operanti nel processo di gestione richieste e fornitura arredi scolastici.
 Del primo gruppo si possono individuare le seguenti figure che a diverso titolo sono coinvolte nella costruzione del pw:
+
 ========================================================= ======================================= 
 Tipo                                                      Ruolo sul PW
 ========================================================= ======================================= 
