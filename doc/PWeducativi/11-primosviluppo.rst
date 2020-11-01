@@ -146,4 +146,58 @@ No     Verso task 7 Produzione comunicazione esito
 | Verso task 6A invio ufficio interno               |
 +---------------------------------------------------+
 
+**Task 6A:** Invio ufficio interno – task di tipo Service - si produce messaggio e-mail verso ufficio interno per predisposizione delle attività per realizzazione della fornitura verso  Evento finale “Destinatario interno per acquisti”
 
+Il task produce messaggio con Connectors in “comunicaFornituraUfficio” da service mail Google 20037218@studenti.uniupo.it, SMTP host: smtp.gmail.com, SMTP port: 465
+
+**Task 6B:** Produzione comunicazione fornitura – task di tipo Service - si produce messaggio e-mail verso scuola per comunicazione dell’esito postivo della richiesta e della prossima realizzazione fornitura verso Evento finale “Comunicazione fornitura”
+
+Il task produce messaggio con Connectors in “inviaComunicazioneFornitura” da service mail Google 20037218@studenti.uniupo.it, SMTP host: smtp.gmail.com, SMTP port: 465
+
+**Task 7:** Produzione comunicazione esito – task di tipo Service - si produce messaggio e-mail verso scuola per comunicazione dell’esito negativo della richiesta verso Evento finale “Ricezione esito negativo”
+
+Il task produce messaggio con Connectors in “InviaRichiestarespintaEmail” da service mail Google 20037218@studenti.uniupo.it, SMTP host: smtp.gmail.com, SMTP port: 465
+
+**Task 4B:** Richiesta correzione – task di tipo Service - si produce messaggio e-mail verso lane scuola per richiesta integrazione istanza 
+
+Il task produce messaggio con Connectors in “invioRichCorrezioneIstanza” da service mail Google 20037218@studenti.uniupo.it, SMTP host: smtp.gmail.com, SMTP port: 465
+
+**Task 8:** Correzione documento – task di tipo Service - si produce messaggio e-mail verso lane ufficio per risposta a mail richiesta correzione-integrazione istanza
+
+Il task produce messaggio con Connectors in “invioRichCorrezioneIstanza” da service mail Google silvano.rigotti@comune.torino.it, SMTP host: smtp.gmail.com, SMTP port: 465
+
+**Task 9:** Ricezione correzioni – task di tipo Human - da mail ricevuta correzione delle informazioni salvate con presentazione richiesta su form “correzioneRichiesta”
+
++---------------------------+
+| oggetto_descrizione       |
++---------------------------+
+| oggetto_tipologia         |
++---------------------------+
+| richiesta_tipo            |
++---------------------------+
+| richiesta_n_mancante      |
++---------------------------+
+| richiesta_n_in_carico     |
++---------------------------+
+| richiesta_n_esubero       |
++---------------------------+
+| richiesta_stato_arredo    |
++---------------------------+
+| richiesta_data            |
++---------------------------+
+| richiesta_note            |
++---------------------------+
+
+Organizzazione
+##############
+
+Nel progetto è stata definita l’organizzazione “Comune-arredi-semplificato” avente  un unico gruppo “Ufficio arredi” con 4 ruoli 
+addetto-scuola, arredi-addetto-istruttoria, arredi-addetto-registrazione, arredi-responsabile.
+Questi ruoli sono assegnati a 4 user-utenti:
+
+- user-scuola con ruolo addetto-scuola,
+- addetto-istruttoria con ruolo arredi-addetto-registrazione e arredi-addetto-istruttoria,
+- addetto-ricezione con ruolo arredi-addetto-registrazione e arredi-addetto-istruttoria,
+- arredi-responsabile con ruolo on ruolo arredi-responsabile e arredi-addetto-istruttoria.
+
+L’user arredi-responsabile è anche username per il deploy e amministrazione del pacchetto.
