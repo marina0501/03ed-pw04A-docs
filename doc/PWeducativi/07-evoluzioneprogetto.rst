@@ -25,3 +25,19 @@ Da questi primi elementi sono state redatti due documenti iniziali di analisi:
 
 Passo successivo è stata la ricerca e individuazione del software gestionale adeguato per lo sviluppo del pacchetto di gestione del processo oggetto del pw.
 In considerazione del contenuto del master sono stati considerati due prodotti: Bonita BPM e ODOO.
+
+BONITA BPM
+----------
+
+Bonita BPM è un software open source in cui sono riunite la funzione di modellazione dei processi BPMN e la funzione di LCPD (Low-Code Development Platform) che permette di sviluppare applicazioni da semplici interfaccia grafiche combinate al modello di processo. 
+Esso è stato sviluppato nel 2001, è di proprietà della società francese Bonitasoft ed è attiva una community sia di condivisione di progetti che di sviluppo.
+Bonita è scritto in Java su piattaforma di sviluppo open source Eclipse (licenza EPL); comprende componenti scritte con Groovy (o *JSR 241*), linguaggio di programmazione a oggetti per la piattaforma Java che usa una sintassi a parentesi graffe simile a Java
+Bonita è suddiviso in più componenti
+    • Studio, interfaccia di creazione dei diagrammi, multi-piattaforma ed è il pacchetto scaricato dal sito di Bonitasoft; permette di creare collegamenti con sistema informativo con servizi mail, gestione dei contenuti, database. 
+    • BPM Engine che gestisce e coordina, esegue le attività del processo, permette i collegamenti con i db esterni tramite le API esposte e per il suo ruolo di interconnessione con pacchetti esterni è rilasciato con licenza LGPL; sviluppato in Angular JS 
+    • Bonita Portal, applicazione web con interfacce grafiche costruite in base alla differente modalità di utilizzo (utente finale o amministratore), è il destinatario dei processi che attraverso di esso divengono gestibili dagli utenti;
+    • UI Designer, strumento per comporre le interfacce grafiche, sviluppato in Bootstrap e Angular JS
+    • Continuus delivery, componente di provisioning automatico sui servizi server di Amazon (AWS)
+In Bonita è presente un db relazionale su cui sviluppare query sql gestito tramite la componente Engine e può essere collegato anche a differenti db esterni (es. PostgreSQL, My SQL; SQLserver)
+
+*Scheda descrittiva pacchetto applicativo*
