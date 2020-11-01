@@ -33,8 +33,9 @@ Eventi o fatti:
     • istruttoria
     • fornitura
 
-A partire dalla descrizione delle attività e dai moduli utilizzati sono state definite le strutture delle tabelle o data-object con i relativi campi riguardanti gli oggetti e le loro proprietà. Sono state definite 6 tabelle:
+A partire dalla descrizione delle attività e dai moduli utilizzati sono state definite 6 tabelle o data-object con i relativi campi riguardanti gli oggetti e le loro proprietà.
 
+Elenco tabelle:
     • oggetti_fornitura:
       contiene le informazioni sugli oggetti delle richieste di forniture (tipo, identificativo, descrizione) 
     • plesso
