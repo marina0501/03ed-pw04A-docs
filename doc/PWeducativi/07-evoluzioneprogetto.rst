@@ -42,6 +42,26 @@ In Bonita è presente un db relazionale su cui sviluppare query sql gestito tram
 
 *Scheda descrittiva pacchetto applicativo*
 
+===================================== ===============================================================================================================
+Scheda descrittiva pacchetto          fff        
+===================================== ===============================================================================================================
+Denominazione                         Bonita
+Corporation                           Bonitasoft
+Licenza                               GPL2 - LGPL per componente Bonita Engine
+Risorse – requisiti installazione     Multipiattaforma 
+a                                     Windows 32 o 64 bit
+b                                     Linux 32 o 64 bit
+b                                     MacOS 64 bit
+b                                     Necessita di 8 gb di RAM
+b                                     Compatibile con Browser Mozilla, Chrome, Explorer, Edge
+Formato file standard                 .proc
+Formati output-export                 .bos – esporta il progetto su singole parti o complessivamente da utilizzare su altre istanze Bonita
+b                                     .xml – esporta gli schemi delle organizzazioni
+b                                     .png – file immagine di un singolo diagramma
+ b                                    .bpmn - Business Process Model and Notation
+===================================== ================================================================================================================
+
+
 ODOO
 ----
 
