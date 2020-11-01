@@ -43,6 +43,7 @@ In Bonita è presente un db relazionale su cui sviluppare query sql gestito tram
 *Scheda descrittiva pacchetto applicativo*
 
 ===================================== ===============================================================================================================
+===================================== ===============================================================================================================
 **Denominazione**                     Bonita
 **Corporation**                       Bonitasoft
 **Licenza**                           GPL2 - LGPL per componente Bonita Engine
