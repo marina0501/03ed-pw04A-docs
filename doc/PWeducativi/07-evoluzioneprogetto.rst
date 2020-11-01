@@ -54,7 +54,13 @@ Linux                                                     32 o 64 bit
 Mac OS                                                    64 bit
 RAM                                                       8 gb
 Browser                                                   Compatibile con Mozilla, Chrome, Explorer, Edge
-Formati output-export                                     .bos – esporta il progetto su singole parti o complessivamente da utilizzare su altre istanze Bonita
+Formati output-export                                     - .bos – esporta il progetto su singole parti o complessivamente da utilizzare su altre istanze Bonita
+                                                          - .xml – esporta gli schemi delle organizzazioni
+                                                          - .png – file immagine di un singolo diagramma
+                                                          - .bpmn - Business Process Model and Notation
+Formati input                                             - .bpmn
+                                                          - .jbpm
+                                                          - .jpdl
 ========================================================= =======================================
 
 ODOO
