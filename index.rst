@@ -15,4 +15,4 @@ Project Work 4A
    03 doc/03-descrizionedellacitta.rst
    04 doc/04-economia
    05 doc/05-entecomunetorino.rst
-   
+   06 doc/06-ambienteinterno.rst
