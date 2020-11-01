@@ -1,0 +1,24 @@
+========================
+Gestione del cambiamento
+========================
+
+Nella descrizione iniziale dell’ente Comune di Torino e della sua struttura si è descritta una situazione che sembra essere stabile e consolidata; in realta, e ciò si può evincere dall’indicazione del numero dei dipendenti prossimi al pensionamento, la struttura organizzativa e funzionale dell’ente sta vivendo una fase di riorganizzazione profonda, resa difficile dalla sempre più grave carenza di personale e di risorse economiche.
+
+L’Ufficio Acquisto Beni nel corso di questo anno ha vissuto ed è stato coinvolto pienamente in questo vortice riorganizzativo comunale: gli stress determinati da questo evento si sono sommati agli stress provocati dalla chiusura degli uffici e dall’emergenza covid che ha costretto a operare in situazioni di emergenza o comunque fuori dai consueti iter amministrativi e operativi.
+
+Ciò che definisco vortice riorganizzativo è stato il brusco e improvviso cambiamento della struttura organizzativa dell’Ente e della Divisione Servizi Educativi che ha fatto sì che la dirigente del Servizio di riferimento dell’Ufficio Acquisto Beni fosse trasferita ad un altra Divisione e dopo un mese di vacanza sia stata sostituita da un funzionario con funzioni dirigenziali proveniente da altra Divisione, senza esperienze pregresse nell’ambito della gestione di servizi scolastici ed alla cittadinanza.
+
+A questa riorganizzazione di più alto livello si è sommato il cambiamento della Funzionaria Responsabile in P.O. che svolgeva il ruolo di responsabile diretto dell’ufficio e che era il punto di riferimento per la gestione complessiva del processo. Questa figura essenziale è stata sostituita ad interim con un altro responsabile in P.O. in attesa della nomina del nuovo funzionario, evento che presumibilmente avverrà nei prossimi mesi a seguito di un interpello interno all’ente per la copertura dell’incarico. Le addette dell’ufficio in questo 2020 si sono trovate ad operare in situazione di emergenza per il COVID e di estrema instabilità organizzativa; se la presentazione del progetto negli scorsi mesi ha creato da un lato aspettative di miglioramento, l’instabilità organizzativa e la mancanza di una figura di responsabile come riferimento per l’ufficio hanno generato grande disagio e scontento.
+
+In ogni progetto è necessario prevedere attività di accompagnamento per il successo del percorso di cambiamento: introdurre nuove modalità operative in un ambito ora sconvolto e confuso può rappresentare un rischio poiché potrebbe condurre al rifiuto di accettare ulteriori cambiamenti che possono essere letti come ulteriori salti nel buio. Anche l’arrivo del nuovo funzionario responsabile, pur nella prospettiva di raggiungere un nuovo equilibrio gestionale, potrebbe incrementare le sensazioni di instabilità per le addette alla conduzione dei processi poiché è un elemento nuovo e non conosciuto.
+
+La costruzione del processo, ma ancor più la presentazione e introduzione del pacchetto frutto del pw dovrà dunque avvenire considerando questi elementi di difficoltà.
+
+Occorre provare a compiere un rovesciamento di prospettiva e alcuni spetti che nelle righe precedenti sono stati descritti come elementi critici, provare a considerarli un fattore di stimolo e aiuto al cambiamento. L’arrivo del nuovo funzionario e il consolidamento della nuova struttura organizzativa potrebbero essere elementi su cui costruire il percorso di introduzione del nuovo processo gestionale, poichè queste nuove figure, se ben disposte verso la gestione dematerializzata dei processi, possono essere di aiuto all’introduzione di una rinnovata modalità organizzativa gestionale non essendo portatori di abitudini e modi di agire standardizzati e consolidati che sono il primo ostacolo per l’introduzione di una diversa modalità di gestione. 
+
+Lo sviluppo dell’applicativo non realizzato nel corso del master che spero avverrà in ambiente comunale, può essere opportunità per coinvolgere maggiormente il personale dell’ufficio in questa fase iniziale e facilitare l’accettazione e l’introduzione del nuovo progetto, valorizzando le competenze delle addette utili per la costruzione del pacchetto,  coinvolgendole nella costruzione del pacchetto e facendo si che questo permetta loro di acquisire competenze nuove e adeguate per svolgere al meglio l’attività con il nuovo strumento.
+
+Ciò non tralasciando i momenti di formazione e la collaborazione nell’effettuazione dei test di utilizzo preventivi al deployement.
+
+In questo ambito è stato redatto un diagramma swot per la valutazione dei fattori di beneficio e minaccia per l’introduzione del nuovo processo ( PWA4-RIGOTTI-arredi-SWOT.pdf -
+https://drive.google.com/file/d/1t4IPBsfZgDNu_UUTRuBdfjvtqoeHdcWs/view?usp=sharing )
