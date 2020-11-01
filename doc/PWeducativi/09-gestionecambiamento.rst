@@ -17,8 +17,7 @@ La costruzione del processo, ma ancor più la presentazione e introduzione del p
 Occorre provare a compiere un rovesciamento di prospettiva e alcuni spetti che nelle righe precedenti sono stati descritti come elementi critici, provare a considerarli un fattore di stimolo e aiuto al cambiamento. L’arrivo del nuovo funzionario e il consolidamento della nuova struttura organizzativa potrebbero essere elementi su cui costruire il percorso di introduzione del nuovo processo gestionale, poichè queste nuove figure, se ben disposte verso la gestione dematerializzata dei processi, possono essere di aiuto all’introduzione di una rinnovata modalità organizzativa gestionale non essendo portatori di abitudini e modi di agire standardizzati e consolidati che sono il primo ostacolo per l’introduzione di una diversa modalità di gestione. 
 
 Lo sviluppo dell’applicativo non realizzato nel corso del master che spero avverrà in ambiente comunale, può essere opportunità per coinvolgere maggiormente il personale dell’ufficio in questa fase iniziale e facilitare l’accettazione e l’introduzione del nuovo progetto, valorizzando le competenze delle addette utili per la costruzione del pacchetto,  coinvolgendole nella costruzione del pacchetto e facendo si che questo permetta loro di acquisire competenze nuove e adeguate per svolgere al meglio l’attività con il nuovo strumento.
-
 Ciò non tralasciando i momenti di formazione e la collaborazione nell’effettuazione dei test di utilizzo preventivi al deployement.
 
 In questo ambito è stato redatto un diagramma swot per la valutazione dei fattori di beneficio e minaccia per l’introduzione del nuovo processo ( PWA4-RIGOTTI-arredi-SWOT.pdf -
-https://drive.google.com/file/d/1t4IPBsfZgDNu_UUTRuBdfjvtqoeHdcWs/view?usp=sharing )
+https://github.com/Master-MSL/03ed-pw04A-docs/blob/main/doc/PWeducativi/allegatiEDU/PWA4-RIGOTTI-arredi-SWOT.pdf )
