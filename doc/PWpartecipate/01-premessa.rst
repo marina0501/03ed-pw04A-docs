@@ -19,6 +19,8 @@ L’incontro è avvenuto ad inizio novembre 2018 e sono stati realizzati due eve
 
 Alcuni studenti e insegnanti del liceo hanno anche suonato i loro strumenti insieme agli ospiti.
 
+http:\\www.comune.torino.it
+
 ============ ===========
 testo        testo 2
 ============ ===========
